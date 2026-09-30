@@ -18,6 +18,7 @@ I'm a third-year Computer Engineering student at JES's Institute of Technology, 
 ## Certifications
 - Tata Data Visualisation Job Simulation (Forage)
 - Deloitte Data Analytics Job Simulation (Forage)
+- Completed a 2-week Data Analyst Internship (InAmigos Foundation)
 
 ## Currently Working On
 - Cognevance Data Science & Data Analytics projects
